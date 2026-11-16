@@ -1,0 +1,11 @@
+baseline=0.95 alpha=0.05 power=0.8
+one-sample gate: baseline known, n runs per build
+drop_to  first_n  stable_n  cutoff  false_alarm  power_at_stable_n
+0.92     415      456       424     0.0358       0.8033
+0.9      169      191       175     0.0311       0.8054
+0.85     52       59        52      0.0274       0.8012
+two-sample gate: baseline measured too, n runs per arm
+drop_to  normal_approx_n  exact_n  power_at_exact_n  false_alarm
+0.92     834              889      0.8004            0.0396
+0.9      343              371      0.8000            0.0355
+0.85     111              126      0.8014            0.0243

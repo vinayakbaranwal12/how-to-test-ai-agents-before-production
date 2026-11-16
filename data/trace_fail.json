@@ -1,0 +1,5 @@
+[
+  {"tool": "lookup_order", "args": {"order_id": "A-1042"}, "tokens": 1800, "schema_ok": true},
+  {"tool": "issue_refund", "args": {"order_id": "A-1042", "refund": 49.0}, "tokens": 2600, "schema_ok": false},
+  {"tool": "draft_reply", "args": {"tone": "neutral"}, "tokens": 38000, "schema_ok": true}
+]

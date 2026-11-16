@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+type: software
+title: "How to Test AI Agents Before Production: evidence"
+authors:
+  - family-names: Baranwal
+    given-names: Vinayak
+repository-code: https://github.com/vinayakbaranwal12/how-to-test-ai-agents-before-production
+version: 1.0.0
+date-released: 2026-11-16
+license: MIT

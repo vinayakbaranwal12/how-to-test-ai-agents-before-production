@@ -1,0 +1,5 @@
+[
+  {"tool": "lookup_order", "args": {"order_id": "A-1042"}, "tokens": 1800, "schema_ok": true},
+  {"tool": "search_kb", "args": {"query": "late delivery policy"}, "tokens": 2400, "schema_ok": true},
+  {"tool": "draft_reply", "args": {"tone": "neutral"}, "tokens": 2100, "schema_ok": true}
+]

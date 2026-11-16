@@ -1,0 +1,5 @@
+# Python 3.9.6
+numpy==2.0.2
+# matplotlib, only for make_charts.py
+matplotlib
+# Outputs were also verified on numpy 2.2.6.

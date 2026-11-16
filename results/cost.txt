@@ -1,0 +1,5 @@
+usd_per_episode=0.0075 builds_per_day=10
+runs_per_side  episodes_per_build  usd_per_build  usd_per_day
+126            252                 1.89           18.90
+371            742                 5.57           55.65
+889            1778                13.34          133.35
